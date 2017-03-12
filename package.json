@@ -1,0 +1,11 @@
+{
+  "name": "dclean",
+  "version": "1.0.0",
+  "description": "Node version of https://github.com/mrxinu/dclean",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Marcus <marcus@thingsima.de>",
+  "license": "MIT"
+}
